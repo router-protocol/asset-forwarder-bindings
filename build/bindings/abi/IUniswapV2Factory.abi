@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"contract IERC20Upgradeable","name":"tokenA","type":"address"},{"internalType":"contract IERC20Upgradeable","name":"tokenB","type":"address"}],"name":"getPair","outputs":[{"internalType":"contract IUniswapV2Exchange","name":"pair","type":"address"}],"stateMutability":"view","type":"function"}]
